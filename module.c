@@ -3,7 +3,7 @@
 #include <linux/bio.h>
 #include <linux/blkdev.h>
 
-MODULE_AUTHOR("Intel® Corporation");
+MODULE_AUTHOR("ZiomboI");
 MODULE_LICENSE("GPL");
 MODULE_VERSION("0.0.1");
 
